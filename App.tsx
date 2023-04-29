@@ -1,3 +1,4 @@
+import './src/assets-resolver';
 import React, {useEffect, useState} from 'react';
 import {Platform, SafeAreaView, StyleSheet, Text} from 'react-native';
 import CodePush from 'react-native-code-push';
